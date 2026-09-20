@@ -12,3 +12,6 @@
 
 ;; Change theme
 (load-theme 'wombat)
+
+;; Change cursor
+(setq-default cursor-type 'bar)
