@@ -9,3 +9,6 @@
 
 ;; Change font
 (add-to-list 'default-frame-alist '(font . "Consolas-11"))
+
+;; Change theme
+(load-theme 'wombat)
