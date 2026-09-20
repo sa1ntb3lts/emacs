@@ -1,4 +1,8 @@
 ;; Start maximized
 (push '(fullscreen . maximized) default-frame-alist)
 
-(tool-bar-mode -1)          ; Disable toolbar
+;; Disable toolbar
+(tool-bar-mode -1)
+
+;; Change font
+(add-to-list 'default-frame-alist '(font . "Consolas-11"))
