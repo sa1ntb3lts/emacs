@@ -4,5 +4,8 @@
 ;; Disable toolbar
 (tool-bar-mode -1)
 
+;; Disable scrollbar
+(scroll-bar-mode -1)
+
 ;; Change font
 (add-to-list 'default-frame-alist '(font . "Consolas-11"))
