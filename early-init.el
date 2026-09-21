@@ -1,8 +1,7 @@
 ;;; early-init.el --- Emacs early configuration -*- lexical-binding: t; -*-
 
-;; start the initial frame maximized
-(push '(fullscreen . maximized) default-frame-alist)
+;; garbage collector
+(setq gc-cons-threshold 63000000
+      gc-cons-percentage 0.6)
 
-;; remove UI elements
-(push '(menu-bar-lines . 0) default-frame-alist)
-(push '(tool-bar-lines . 0) default-frame-alist)
+;; packages
