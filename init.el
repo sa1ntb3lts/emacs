@@ -1,3 +1,5 @@
+;;; init.el --- -*- lexical-binding: t; -*-
+
 ;; UI
 (tool-bar-mode -1)
 (menu-bar-mode -1)
