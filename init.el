@@ -3,7 +3,7 @@
 (menu-bar-mode -1)
 (scroll-bar-mode -1)
 (add-to-list 'default-frame-alist '(font . "Consolas-11"))
-(load-theme 'wombat t)
+(load-theme 'wombat)
 (setq-default cursor-type 'bar)
 
 ;; Package
