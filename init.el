@@ -1,4 +1,4 @@
-;;; init.el --- -*- lexical-binding: t; -*-
+;;; init.el --- Emacs configuration entry point -*- lexical-binding: t; -*-
 
 ;; UI
 (tool-bar-mode -1)
