@@ -1,6 +1,3 @@
-;; Window
-(push '(fullscreen . maximized) default-frame-alist)
-
 ;; UI
 (tool-bar-mode -1)
 (menu-bar-mode -1)
