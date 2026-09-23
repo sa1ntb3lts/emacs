@@ -4,7 +4,7 @@
 (setq gc-cons-threshold 63000000
       gc-cons-percentage 0.6)
 
-;; center initial frame
+;; TODO: fix center initial frame
 (setq default-frame-alist
       '((left . 540)
         (top . 960)))
