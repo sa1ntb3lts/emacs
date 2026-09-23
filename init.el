@@ -1,5 +1,8 @@
 ;;; init.el --- Emacs configuration entry point -*- lexical-binding: t; -*-
 
+;; center frame function
+(frame-center)
+
 ;; UI configuration
 (tool-bar-mode -1)
 (menu-bar-mode -1)
