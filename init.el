@@ -3,13 +3,6 @@
 ;; frame-center function
 (frame-center)
 
-;; UI configuration
-(tool-bar-mode -1)
-(menu-bar-mode -1)
-(add-to-list 'default-frame-alist '(font . "Consolas-11"))
-(load-theme 'wombat)
-(setq-default cursor-type 'bar)
-
 ;; package configuration
 (require 'package)
 (setq package-archives '(("melpa" . "https://melpa.org/packages/")
@@ -22,3 +15,10 @@
   (package-install 'use-package))
 (require 'use-package)
 (setq use-package-always-ensure t)
+
+;; UI configuration
+(tool-bar-mode -1)
+(menu-bar-mode -1)
+(add-to-list 'default-frame-alist '(font . "Consolas-11"))
+(load-theme 'wombat)
+(setq-default cursor-type 'bar)
