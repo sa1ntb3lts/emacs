@@ -16,5 +16,8 @@
 (require 'use-package)
 (setq use-package-always-ensure t)
 
+;; add lisp to Emacs load path
+(add-to-list 'load-path (expand-file-name "lisp" ~/.emacs.d/lisp))
 
-(add-to-list 'load-path (expand-file-name "lisp" user-emacs-directory))
+;; load modules
+(require 'ui)
