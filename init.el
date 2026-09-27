@@ -21,3 +21,4 @@
 
 ;; load modules
 (require 'ui)
+(require 'editor)
