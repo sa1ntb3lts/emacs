@@ -22,3 +22,5 @@
 ;; load modules
 (require 'ui)
 (require 'editor)
+
+;;; init.el ends here
