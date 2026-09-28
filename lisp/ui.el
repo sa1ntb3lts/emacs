@@ -7,3 +7,5 @@
 (setq-default cursor-type 'bar)
 
 (provide 'ui)
+
+;;; ui.el ends here
