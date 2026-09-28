@@ -20,3 +20,5 @@
 
 ;; remove UI elements
 (push '(menu-bar-lines . 0) default-frame-alist)
+
+;;; early-init.el ends here
