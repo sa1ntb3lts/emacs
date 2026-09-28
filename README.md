@@ -1,3 +1,3 @@
-# GNU Emacs configuration
-## What should you expect?
-This Emacs configuration is for those seeking an experience similar to that of modern code editors like Visual Studio Code or Atom, while retaining some of the essence of Emacs.
+# A personal GNU Emacs configuration
+This is not an Emacs framework or distribution, this is an Emacs configuration that I made from scratch for me, it probably won't work for you because of missing features that you may need.  
+The reason why I think sharing this is worth it, is for you to study and use the code in it for your own purpouses. :)
