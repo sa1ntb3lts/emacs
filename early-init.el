@@ -18,7 +18,4 @@
     (message (format "dw %d dh %d fw %d fh %d x %d y %d" dw dh fw fh x y))
     (set-frame-position f x y)))
 
-;; remove UI elements
-(push '(menu-bar-lines . 0) default-frame-alist)
-
 ;;; early-init.el ends here
