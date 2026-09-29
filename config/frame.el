@@ -13,7 +13,4 @@
     (message (format "dw %d dh %d fw %d fh %d x %d y %d" dw dh fw fh x y))
     (set-frame-position f x y)))
 
-
-(provide 'frame)
-
 ;;; frame.el ends here
