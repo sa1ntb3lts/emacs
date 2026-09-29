@@ -4,6 +4,8 @@
 (setq gc-cons-threshold 63000000
       gc-cons-percentage 0.6)
 
+;;(push '(fullscreen . maximized) initial-frame-alist)
+
 ;; center initial frame
 (defun frame-center ()
   "Center the current frame."
