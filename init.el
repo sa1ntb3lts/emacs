@@ -6,8 +6,8 @@
 ;; package configuration
 (require 'package)
 (setq package-archives '(("melpa" . "https://melpa.org/packages/")
-                       ("nongnu" . "https://elpa.nongnu.org/nongnu/")
-                       ("elpa" . "https://elpa.gnu.org/packages/")))
+                       ("elpa" . "https://elpa.gnu.org/packages/")
+                       ("nongnu" . "https://elpa.nongnu.org/nongnu/")))
 (package-initialize)
 (unless package-archive-contents
 (package-refresh-contents))
