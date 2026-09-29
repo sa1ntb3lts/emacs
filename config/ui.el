@@ -7,10 +7,6 @@
 (load-theme 'wombat)
 (setq-default cursor-type 'bar)
 
-;; theme
-;;(add-to-list 'load-path "~/.emacs.d/packages/atom-one-dark-theme/")
-;;(load-theme 'atom-one-dark-theme t)
-
 (provide 'ui)
 
 ;;; ui.el ends here
