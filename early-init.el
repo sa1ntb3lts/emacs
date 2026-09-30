@@ -5,6 +5,6 @@
       gc-cons-percentage 0.6)
 
 ;; maximize frame
-(push '(fullscreen . maximized) initial-frame-alist)
+(push '(fullscreen . maximized) default-frame-alist)
 
 ;;; early-init.el ends here
