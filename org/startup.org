@@ -1,3 +1,2 @@
 #+STARTUP: 
-* Welcome to GNU Emacs
-One component of the GNU operatin system.
+* Welcome to GNU Emacs, one component of the GNU operating system.
