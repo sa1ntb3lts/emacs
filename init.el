@@ -1,7 +1,7 @@
 ;;; init.el --- Emacs configuration entry point -*- lexical-binding: t; -*-
 
 ;; config
-(add-to-list 'load-path "~/.emacs.d/lisp")
+(add-to-list 'load-path "~/.emacs.d/elisp")
 
 ;; load modules
 ;;(require 'startup)
