@@ -1,0 +1,3 @@
+[submodule "atom-one-dark-theme"]
+	path = atom-one-dark-theme
+	url = https://github.com/jonathanchu/atom-one-dark-theme.git
