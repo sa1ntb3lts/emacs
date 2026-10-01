@@ -1,6 +1,6 @@
 ;;; theme.el --- Emacs theme configuration -*- lexical-binding: t; -*-
 
-(add-to-list 'load-path "~/.emacs.d/packages/theme/alabaster-themes")
+(add-to-list 'load-path "~/.emacs.d/packages/alabaster-themes")
 
 (require 'alabaster-themes)
 
