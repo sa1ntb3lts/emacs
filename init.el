@@ -4,6 +4,7 @@
 (add-to-list 'load-path "~/.emacs.d/lisp")
 
 ;; load modules
+(require 'startup)
 (require 'ui)
 (require 'theme)
 
