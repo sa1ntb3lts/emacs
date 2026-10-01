@@ -4,8 +4,8 @@
 (add-to-list 'load-path "~/.emacs.d/elisp")
 
 ;; load modules
-;;(require 'startup)
 (require 'ui)
 (require 'theme)
+(require 'startup)
 
 ;;; init.el ends here
