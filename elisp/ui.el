@@ -4,8 +4,8 @@
 (menu-bar-mode -1)
 (add-to-list 'default-frame-alist '(font . "Fira Code-11"))
 (setq-default cursor-type 'bar)
-;;(global-display-line-numbers-mode)
-(add-hook 'prog-mode-hook 'display-line-numbers-mode)
+(global-display-line-numbers-mode)
+;;(add-hook 'prog-mode-hook 'display-line-numbers-mode)
 
 (provide 'ui)
 
