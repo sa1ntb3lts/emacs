@@ -6,6 +6,6 @@
 ;; load modules
 (require 'ui)
 (require 'theme)
-;;(require 'startup)
+(require 'startup)
 
 ;;; init.el ends here
