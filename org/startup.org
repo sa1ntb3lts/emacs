@@ -1,2 +1,4 @@
+# -*- buffer-read-only: t -*-
+
 #+STARTUP: 
 * Welcome to GNU Emacs, one component of the GNU operating system.
