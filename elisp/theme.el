@@ -4,7 +4,6 @@
 
 (require 'doric-themes)
 
-;;(load-theme 'doric-obsidian t)
 (load-theme 'doric-plum t)
 
 (provide 'theme)
