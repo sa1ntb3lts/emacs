@@ -2,5 +2,6 @@
 
 ;; in-buffer
 
+(provide 'completion)
 
 ;;; completion.el ends here
